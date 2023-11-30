@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h1,
+.fixed-bottom,
+a {
+  color: #fff;
+}
